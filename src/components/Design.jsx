@@ -1,14 +1,14 @@
 import React from 'react'
 
-function Home(props) {
+function Design() {
     return (
         <main className="principal">
-            <h2>Últimos Lançamentos</h2>
+            <h2>Categoria frontend</h2>
             <div className="card">
-                <p>Conteúdos da Home Page</p>
+                <p>Conteúdos da página Design</p>
             </div>
         </main>
     )
 }
 
-export default Home
+export default Design

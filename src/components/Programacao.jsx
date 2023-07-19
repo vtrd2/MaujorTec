@@ -1,14 +1,14 @@
 import React from 'react'
 
-function Home(props) {
+function Programacao() {
     return (
         <main className="principal">
-            <h2>Últimos Lançamentos</h2>
+            <h2>Categoria frontend</h2>
             <div className="card">
-                <p>Conteúdos da Home Page</p>
+                <p>Conteúdos da página programacao</p>
             </div>
         </main>
     )
 }
 
-export default Home
+export default Programacao
